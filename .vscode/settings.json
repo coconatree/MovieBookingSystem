@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "*.tcc": "c",
+        "list": "c",
+        "hash_map": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "string_view": "c",
+        "array": "cpp",
+        "ranges": "cpp",
+        "iostream": "cpp",
+        "reservationlistcustom.h": "c",
+        "ostream": "cpp"
+    }
+}
